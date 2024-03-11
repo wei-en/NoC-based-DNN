@@ -1,0 +1,4 @@
+Input 784 1 1
+Dense 256 relu
+Dense 128 relu
+Dense 10 softmax
